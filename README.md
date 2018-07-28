@@ -220,3 +220,12 @@ public settings = <AuraToastSettings>{
       maxWidth: '400px' // Limit toast size to 400px
   };
 ```
+
+# Credits
+Inspiration taken from CodeSeven's toastr: [https://github.com/CodeSeven/toastr](https://github.com/CodeSeven/toastr)
+
+# Copyright
+Copyright © 2018
+
+# License
+Aura Toast is licensed under the [MIT license](https://opensource.org/licenses/MIT) 
